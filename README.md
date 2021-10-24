@@ -19,7 +19,7 @@ I'm a web designer and I have a lot of skills in it .
 - `<= php ?>` good
 - `C#` not bad
 
-##🍨 About me
+## 🍨 About me
 programmer and Web designer with more than four years of professional work . react and node js developer and tools related to JavaScript . Full acquaintance in the user interface process , testing and diagnosis , installation and maintenance of web systems . has a diverse set of programming skills . have a strong spirit and teamwork .
 
 ## 🍕Portfolio
