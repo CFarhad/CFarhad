@@ -36,4 +36,3 @@ programmer and Web designer with more than four years of professional work . rea
 - Game
 - Music (rap)
 - Movie and Series
-- Walking at night 
